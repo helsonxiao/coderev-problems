@@ -1,13 +1,13 @@
 // import logo from "./logo.svg";
 import "./App.css";
-import { CombineSetIntervealAndUseState } from "./problems/combine-setinterveal-usestate";
+import { CombineSetIntervalAndUseState } from "./problems/combine-setinterval-usestate";
 import { ReactKey } from "./problems/react-key";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <CombineSetIntervealAndUseState /> */}
+        {/* <CombineSetIntervalAndUseState /> */}
         <ReactKey />
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         {/* <p>

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 
-export const CombineSetIntervealAndUseState = () => {
+export const CombineSetIntervalAndUseState = () => {
   const [messages, setMessages] = useState([]);
   const messageCountRef = useRef(0);
 
